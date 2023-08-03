@@ -1,0 +1,160 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "3cea101709a80e0d3e1d791a200145c78e55a875eea3138f6bc63650b68eecdf"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "d83fccfbefa34aae187e64c16dd91a4416a276de4603397a94b2706ccc2667a8"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "28ba075aa9fa24584124b9dcf73a3568e09f57fda0f96a8e3e862159b6188cc7"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "86cb93925d163bf219df6c3c66f2f2c1304c8ba32b8c1687948c9c65a0c5e491"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "09bd4295369bfdabe8a9dcc73869c97f2a0332dec8b94ae99c57886c22a636b3"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "7db24f20a764e73c1ff55726ab4cc5c15c0d2f80310a15f05a3772488c100be6"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "a2fc8e59079a318cdad02a7cb9ae1702a3050cf4d7ad16d4659fddd0ac52615f"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "4fc7f2618543048a16978c1ac6e35244aa417e99e1d55f07abbf646a2af7d2fd"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "889965162ca9400ba64281362fa8afbf646aa2b6d0a2960eab963733fc0d264f"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b227e86d2e4deee90a78a3ce3ee9ba58ea6bd228397350f617f336acb5cc2831"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "31b73ddce62f4a69aaf92ba8b2d46c088e0529a858b325b4d4811ff8f82b00ab"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "348c8809f5fbc29e251f649ff8b012d8b8c97c1ab4297d929a9569ff0c56a8ef"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "d6c054a4f547e92831b8ef5fe4afea6432269a19fd1a60ba576865faff8a4638"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "c535d838b65ede11de73647587f98c6fca8aa7247d093ac38ec506188075533e"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "4d931064f471438d167e62c8915732fa266d5dc06a45717771d737688d084c6b"
+metafile = true
+
+[[files]]
+file = "mods/goal-optimizer.pw.toml"
+hash = "9d862cde05fc5f00d4281a239f2fe48475bda0c1cf99aa6be546df5d3b0a6ec4"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast-reforged.pw.toml"
+hash = "2c15dd144b734cc912adac29e62035b25b0063486b96102628a422bfeed0a249"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "4bd7bd02c4bcdb762837f2180782d1c147a0d1c1b45c9b8f69ee654dd632af02"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "41006e17b6757d91681e6acc1124fc7d9c0853201b06a684960665dbf213707d"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "03c7da4dae5cb6748ea215c05508cbbf8a00f38032e4d1895ce0deac52353a5d"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "e106cba67f55e498d15b010d0906420f3d3d7e8285ef24a920faaef209703da7"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
+metafile = true
+
+[[files]]
+file = "mods/redirectionor.pw.toml"
+hash = "4e37734e0c86f47f79ddf6a889887c14aa44f2257be9a205cbdd7e799f88d1c0"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "8a9e421f18e23543d3b4628529426679684ffd27fdb0c9b4749d81ba05e953de"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "45e9f967f5f1fd3d33c8ba8bc79e886e05cb6c7b205cba9d89f8b1e24fcbf658"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "714ff73d5470b417ddfa992dabdcce020c223844cbd03f376035463206d61358"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "1fdfe0cbfccf90bfe0ff8bb145f7f83d7d7540cb14f1c4171de36fc2ed02efb4"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "f6784d25898f5ec66ceb3caf0884c27b666361ca1d39aa2b8d465d6b3cfb5f1e"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "a5c4511747de5c734cc070c3fe9ff6052b20aa00bd1d3a9fd89c9e3e2962facb"
+metafile = true
+
+[[files]]
+file = "plugins/let-me-despawn.pw.toml"
+hash = "482d03ff9e37639c85b4bf1a09007b46ff7b94ca7f84793c15a5237660e33956"
+metafile = true
