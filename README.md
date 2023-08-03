@@ -1,1 +1,1 @@
-# Default Modpack Template for 1.19.2
+# Default Modpack Template for 1.20.1
